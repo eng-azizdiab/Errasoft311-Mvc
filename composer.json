@@ -1,0 +1,12 @@
+{
+    "name": "errasoft-311/mvc",
+    "description": "mvc",
+    "autoload": {
+        "psr-4": {
+            "Errasoft311\\Mvc\\": "src/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
